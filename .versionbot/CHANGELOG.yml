@@ -1,4 +1,14 @@
 - commits:
+    - subject: Delete .github directory
+      hash: e0f2737daa9e15f16d9dd782960a86339bbb4a08
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: dfunckt
+  version: 3.2.2
+  date: 2021-07-01T10:54:36.918Z
+- commits:
     - subject: Update dependencies
       hash: dc41949015399154efb4529183daa0dfc9269b52
       body: ''
